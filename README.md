@@ -3,6 +3,8 @@
 # The Cyclone - Parallax
 
 A simple and visually engaging HTML,CSS & JS parallax scrolling demo showcasing smooth background movement and layered depth effects. This project demonstrates how to create an immersive parallax experience using only front-end web technologies — perfect for learning or design inspiration.
+
+# **Exclusive for Laptop/Desktop**
 ## Table of Contents
 
 - [Description](#description)
